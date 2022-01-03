@@ -1,7 +1,7 @@
 ## Hi, I'm Zetec.
 
 ##### I'm a Semi-FullStack Developer ready to join in any community.
-> ###### *Fullstack __Developer__*
+> ###### *Semi-Fullstack __Developer__*
 
 
 
