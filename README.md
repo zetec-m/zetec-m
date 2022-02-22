@@ -15,6 +15,7 @@
 | WPF Designing      | `86%` - My Favorite shit to do |
 | Discord Bots       | `50%` - I make cool message designs, & make basic bots. |
 | GoLang             | `5%` - Just started learning it a few days ago. |
+| Lua                | `60%` - Exploiting Roblox at its finest |
 
 
 *Will be making a live website soon for all of this junk.*
