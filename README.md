@@ -1,7 +1,7 @@
 ## Hi, I'm Zetec.
 
-##### I'm a Semi-FullStack Developer ready to join in any community.
-> ###### *"Professional Dumbass"*
+##### I'm a Semi-FullStack Developer, if that's what you wanna call it.
+> ###### also known as, a *"Professional Dumbass"*
 
 
 
