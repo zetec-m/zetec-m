@@ -1,4 +1,4 @@
-## Hi, I'm Zetec.
+## Hi, I'm Zetec/Zentra.
 
 ##### I'm a Semi-FullStack Developer, if that's what you wanna call it.
 > ###### also known as, a *"Professional Dumbass"*
